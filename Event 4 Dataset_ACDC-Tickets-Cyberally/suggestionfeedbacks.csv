@@ -1,0 +1,12 @@
+"id","ticket_id","alert_id","suggestion_id","user_id","feedback","rate"
+1,"1234","1715072821.798136970",2,"minjune.kim","werwaerw",4
+2,"1234","1715128235.402253303",63,"kristen.moore","this is wtrong because....",2
+3,"313e06e2-385c-41e2-9b58-90ad8c53eeeb","1715132870.463184838",68,"incident-manager","Helps speed up ability to log the case and assign to a resource",4
+4,"6767ed93-aed4-42d7-b312-08293ceff6a1","1715134860.489784471",71,"acdc-blue-04","The command line associated with activity is suspicious and need to be further investigated: sudo[23258]:  bitnami : TTY=pts/0 ; PWD=/home/bitnami ; USER=root ; COMMAND=/usr/bin/apt-get update",5
+5,"6767ed93-aed4-42d7-b312-08293ceff6a1","1715134860.489784471",71,"acdc-blue-04","The command line associated with activity is suspicious and need to be further investigated: sudo[23258]:  bitnami : TTY=pts/0 ; PWD=/home/bitnami ; USER=root ; COMMAND=/usr/bin/apt-get update",5
+6,"1234","1715144520.618139770",84,"acdc-blue-04","Powershell script related 'Invoke-command' cmdlet should be block to reduce noise in the security logs..",4
+7,"1234","1715144520.618139770",84,"acdc-blue-04","[cydarm:6PTZ7A] Powershell script related 'Invoke-command' cmdlet should be block to reduce noise in the security logs..",4
+8,"7e7a0ae7-284a-4f00-a2e3-ab82a9f668e7","1715220774.25919574",420,"incident-manager",NULL,4
+9,"1234","1715235403.56730655",492,"incident-manager","The attack was blocked by existing technical controls, so there is no need to create a ticket for further remediation based on the data provided in this alert..",2
+10,"1234","1715235403.56730655",492,"incident-manager","The attack was blocked by existing technical controls, so there is no need to create a ticket for further remediation based on the data provided in this alert..",2
+11,"1234","1715235403.56730655",492,"incident-manager","The attack was blocked by existing technical controls, so there is no need to create a ticket for further remediation based on the data provided in this alert..",2
