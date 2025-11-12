@@ -1,6 +1,5 @@
 # Human-AI-Collaboration
-A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy
-Mohsin, A. et.al  (2025). A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy.
+Mohsin. A et. al. A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy (2025). 
 # Overview
 This repository houses the supplementary materials for the research paper titled “A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy” by Ahmad Mohsin. The goal of the paper is to propose and validate a unified architecture whereby human operators and AI-agents collaborate in a Security Operations Center (SOC) context, leveraging trusted autonomy to enhance situational awareness, decision-making and response in cyber defence operations.
 # Contents
