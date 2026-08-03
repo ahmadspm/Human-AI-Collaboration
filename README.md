@@ -1,5 +1,5 @@
 # Human-AI-Collaboration
-Mohsin. A et. al. A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy (2025). 
+Ahmad Mohsin, Helge Janicke, Ahmed Ibrahim, Md Iqbal Sarker, and Seyit Camtepe. 2026. A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy. ACM Trans. Internet Technology.  (2026). https://doi.org/10.1145/3837073
 ![image](https://github.com/user-attachments/assets/96f88c93-99ae-4eb2-ad1d-46a87bf26f8d)
 
 
@@ -54,7 +54,7 @@ This project is licensed under the MIT Licence — see the LICENSE file for deta
 
 If you use this repository or its contents in your research, please cite the associated paper as:
 
-Mohsin. A et. al. A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy (2025). 
+Ahmad Mohsin, Helge Janicke, Ahmed Ibrahim, Md Iqbal Sarker, and Seyit Camtepe. 2026. A Unified Framework for Human–AI Collaboration in Security Operations Centers with Trusted Autonomy. ACM Trans. Internet Technology.  (2026). https://doi.org/10.1145/3837073
 
 
 
